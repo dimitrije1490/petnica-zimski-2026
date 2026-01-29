@@ -2,3 +2,5 @@ spisak
 
 kruska 
 jabuka
+tresnje
+visnje

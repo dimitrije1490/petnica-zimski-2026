@@ -1,0 +1,15 @@
+LTspice 26.0.1 for Windows
+Circuit: C:\Users\david\OneDrive\Desktop\Ltspice vezbe\merac napona.net
+Start Time: Sat Jan 31 22:57:44 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+Direct Newton iteration succeeded in finding operating point.
+Total elapsed time: 0.311 seconds.
+
+Files loaded:
+C:\Users\david\OneDrive\Desktop\Ltspice vezbe\merac napona.net
+C:\Users\david\AppData\Local\LTspice\lib\sub\LTC.lib
+
